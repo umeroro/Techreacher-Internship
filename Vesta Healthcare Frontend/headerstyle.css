@@ -1,0 +1,81 @@
+* {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 30px 0px 30px 0px;
+}
+
+.nav-child{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.left-nav {
+  width: 14%;
+  display: flex;
+}
+
+.mid-nav {
+  display: flex;
+  cursor: pointer;
+}
+
+.mid-nav ul {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: "Proxima Reg", Sans-serif;
+}
+
+.mid-nav ul li{
+  display: inline-block;
+  font-family: "Proxima Reg", Sans-serif;
+  padding: 10px !important;
+}
+
+.mid-nav ul li:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+  text-decoration-color: #164C30;
+}
+
+.mid-nav ul li a{
+  color: #000000;
+}
+
+.right-nav{
+  display: flex;
+  padding: 0 0 0 10px;
+}
+
+.contact-btn{
+  border: none;
+  font-family: "Proxima Reg", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  background-color: #164C30;
+  border-radius: 100px 100px 100px 100px; 
+  padding: 7px 30px 7px 30px;
+  width: 180px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-btn:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}

@@ -1,0 +1,144 @@
+.container-6{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 80px 0px 80px 0px;
+}
+
+.container-6-1{
+  padding: 0 30px 0 30px;
+}
+
+.container6-child{
+  width: 100%;
+  padding: 0 0 20px 0;
+}
+
+.container6child-left{
+  margin: 0px 0px 0px 0px;
+  padding: 25px 0px 25px 24px;
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-left-color: #CF876A;
+  width: 55%;
+}
+
+.container6child-h1{
+  color: #164C30;
+  font-family: "Proxima Extra Bold", Sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 55px;
+}
+
+.container6-child2{
+  background-color: #F1F1F2;
+  padding: 20px;
+}
+
+.container6-child2-1{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+.container6child2-1-content{
+  border: 2px solid #174c3057;
+  box-shadow: 0px 4px 10px 0px #0000004f !important;
+  border-width: 2px 2px 0px 2px !important;
+  padding: 10px 38px;
+  margin-right: 10px !important;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.container6child2-1-h2{
+  color: #000000;
+  font-family: "Proxima Bold", Sans-serif;
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 28px;
+}
+
+.container6-child2-2{
+  display: flex;
+  padding: 50px 0 0 0;
+}
+
+.container6child2-left{
+  width: 48%;
+  align-content: end;
+}
+
+.container6-img{
+  width: 100%;
+}
+
+.container6child2-right{
+  width: 48%;
+  padding-top: 40px;
+  padding-bottom: 65px;
+}
+
+.container6child2right-top,
+.container6child2right-center,
+.container6child2right-bottom{
+  display: flex;
+  width: 100%;
+  padding-top: 20px;
+}
+
+.top-left,
+.center-left,
+.bottom-left{
+  width: 15%;
+  position: relative;
+  left: 25px;
+}
+
+.top-right,
+.center-right,
+.bottom-right{
+  width: 80%;
+  border-bottom: 2px solid #174c30;
+  border-bottom-width: 2px !important;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+}
+
+.icon-size{
+  width: 50%;
+}
+
+.container6-p{
+  font-size: 22px;
+  color: black;
+  font-family: 'Proxima Thin';
+  line-height: 32px;
+  /* width: 500px; */
+  /* position: relative;
+  left: 75px; */
+}
+
+.container-6-btn{
+  padding: 30px 0 0 0;
+  text-align: center;
+}
+
+.contaienr6-btn{
+  border: none;
+  background-color: #164C30;
+  color: white;
+  font-size: 24px;
+  font-family: 'Proxima Reg';
+  text-decoration: none;
+  padding: 8px 80px;
+  border-radius: 40px;
+  font-family: "Proxima Extra Bold", Sans-serif;
+}
+
+.contaienr6-btn:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}

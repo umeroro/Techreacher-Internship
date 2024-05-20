@@ -1,0 +1,77 @@
+.container-7{
+  background-color: #F1F1F2;
+}
+
+.container-7-1{
+  padding: 0 30px 0 30px;
+}
+
+.container7-child{
+  display: flex;
+  width: 100%;
+}
+
+.container7child-left{
+  width: 53%;
+  /* padding-top: 50px; */
+  padding: 100px 20px 0px 0px;;
+}
+
+.container7-child-h{
+  margin: 0px 0px 0px 0px;
+  padding: 35px 0px 35px 24px;
+  border-style: solid;
+  border-width: 0px 0px 0px 4px;
+  border-color: #CF876A;
+}
+
+.container7child-h1{
+  color: #164C30;
+  font-family: "Proxima Extra Bold", Sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 55px;
+}
+
+.container7-child-p{
+  padding: 70px 0px 0px 20px;
+}
+
+.container7-p{
+  color: #000000;
+  font-family: "Proxima Thin", Sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 37px;
+}
+
+.container7child-right{
+  width: 47%;
+}
+
+.container7-btn{
+  padding: 30px 0px 0px 20px;
+}
+
+.container7-cs-btn{
+  border: none;
+  font-family: "Proxima Reg", Sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: 26px;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  background-color: #164C30;
+  border-radius: 40px 40px 40px 40px;
+  padding: 8px 60px 8px 60px;
+}
+
+.container7-cs-btn:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+.container7-img{
+  width: 100%;
+}
